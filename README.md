@@ -2,7 +2,7 @@
 
 I like building small, useful tools that make life easier — especially when AI is involved. GitHub is where I experiment, learn, break things, fix them, and turn product ideas into working prototypes. Most of what I build starts as a curiosity and ends up teaching me something valuable about AI, search, or automation.
 
-🔍 What I’m Exploring
+🔍 **What I’m Exploring**
 
 AI + Commerce + Search — smarter retrieval, better ranking, practical LLM workflows
 
@@ -14,7 +14,7 @@ Fintech & Marketplace Flows — clean UX, clear decision paths, trustworthy patt
 
 System Cleanup & Productivity Tools — AI-assisted organization, cost tracking, file hygiene
 
-🛠️ What I Enjoy Building
+🛠️ **What I Enjoy Building**
 
 Small apps that solve real problems
 
@@ -38,7 +38,7 @@ Cost management for LLM apps
 
 How to do more with less compute
 
-🤝 Open to Collaborating On
+🤝 **Open to Collaborating On**
 
 AI-powered productivity tools
 
@@ -52,7 +52,7 @@ Anything that helps people move faster with AI
 
 If you’re building something interesting, feel free to reach out — even if it’s early-stage or experimental.
 
-🔗 Connect with Me
+🔗** Connect with Me**
 
 🌐 LinkedIn: https://www.linkedin.com/in/amchawla/
 
